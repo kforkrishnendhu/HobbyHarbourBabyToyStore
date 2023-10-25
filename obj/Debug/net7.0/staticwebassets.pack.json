@@ -1,0 +1,637 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/obj/Debug/net7.0/scopedcss/projectbundle/HobbyHarbour.bundle.scp.css",
+      "PackagePath": "staticwebassets/HobbyHarbour.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/.DS_Store",
+      "PackagePath": "staticwebassets/bootstrapTemplate/.DS_Store"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrapTemplate/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/css/lightbox.min.css",
+      "PackagePath": "staticwebassets/bootstrapTemplate/css/lightbox.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/css/responsive.css",
+      "PackagePath": "staticwebassets/bootstrapTemplate/css/responsive.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/css/style.css",
+      "PackagePath": "staticwebassets/bootstrapTemplate/css/style.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/bootstrapTemplate/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/font-awesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/bootstrapTemplate/font-awesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/bootstrapTemplate/font-awesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/antonio-bold-webfont.woff",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/antonio-bold-webfont.woff"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/antonio-bold-webfont.woff2",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/antonio-bold-webfont.woff2"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/antonio-light-webfont.woff",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/antonio-light-webfont.woff"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/antonio-light-webfont.woff2",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/antonio-light-webfont.woff2"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/antonio-regular-webfont.woff",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/antonio-regular-webfont.woff"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/antonio-regular-webfont.woff2",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/antonio-regular-webfont.woff2"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/exotic_350_demi-bold_bt-webfont.woff",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/exotic_350_demi-bold_bt-webfont.woff"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/exotic_350_demi-bold_bt-webfont.woff2",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/exotic_350_demi-bold_bt-webfont.woff2"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/stylesheet.css",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/stylesheet.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/ufonts.com_exotic-350-bold-bt-webfont.woff",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/ufonts.com_exotic-350-bold-bt-webfont.woff"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/fonts/antonio-exotic/ufonts.com_exotic-350-bold-bt-webfont.woff2",
+      "PackagePath": "staticwebassets/bootstrapTemplate/fonts/antonio-exotic/ufonts.com_exotic-350-bold-bt-webfont.woff2"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner2.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner2.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner2.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner2.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner3.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner3.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner3.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner3.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner4.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner4.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner4.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner4.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/banner5.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/banner5.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/blog-full.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/blog-full.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/blog1.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/blog1.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/blog2.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/blog2.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/category1.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/category1.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/category2.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/category2.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/category3.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/category3.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/category4.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/category4.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/client1.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/client1.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/client2.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/client2.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/client3.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/client3.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/client4.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/client4.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/close.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/close.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery1-1.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery1-1.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery1.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery1.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery2-2.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery2-2.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery2.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery2.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery3-3.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery3-3.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery3.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery3.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery4-4.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery4-4.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery4.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery4.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery5-5.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery5-5.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery5.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery5.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery6-6.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery6-6.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery6.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery6.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery7-7.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery7-7.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery7.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery7.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery8-8.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery8-8.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery8.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery8.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/gallery9-9.jpg",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/gallery9-9.jpg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/car.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/car.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/favicon.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/favicon.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/key.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/key.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/left-arrow-hover.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/left-arrow-hover.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/left-arrow.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/left-arrow.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/left-quotes-sign.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/left-quotes-sign.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/right-arrow-hover.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/right-arrow-hover.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/right-arrow.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/right-arrow.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/right-quotes-symbol.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/right-quotes-symbol.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/user.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/user.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/icons/wifi.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/icons/wifi.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/inner-banner.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/inner-banner.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/loading.gif",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/loading.gif"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/next.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/next.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/prev.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/prev.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/room1.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/room1.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/room2.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/room2.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/room3.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/room3.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/room4.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/room4.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/images/vacation-banner.png",
+      "PackagePath": "staticwebassets/bootstrapTemplate/images/vacation-banner.png"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/bootstrapTemplate/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/js/custom.js",
+      "PackagePath": "staticwebassets/bootstrapTemplate/js/custom.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/js/instafeed.min.js",
+      "PackagePath": "staticwebassets/bootstrapTemplate/js/instafeed.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/js/jquery.imagesloaded.js",
+      "PackagePath": "staticwebassets/bootstrapTemplate/js/jquery.imagesloaded.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/js/jquery.min.js",
+      "PackagePath": "staticwebassets/bootstrapTemplate/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/js/lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets/bootstrapTemplate/js/lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/bootstrapTemplate/js/masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets/bootstrapTemplate/js/masonry.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/images/product/3de36d35-dc7f-41a8-8a81-64fb289178a5.jpeg",
+      "PackagePath": "staticwebassets/images/product/3de36d35-dc7f-41a8-8a81-64fb289178a5.jpeg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/images/product/4a6bac30-a120-4602-bbc9-d60f1a4283ba.jpeg",
+      "PackagePath": "staticwebassets/images/product/4a6bac30-a120-4602-bbc9-d60f1a4283ba.jpeg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/images/product/60bf676a-8b60-4e0c-aa6b-eb94caef819e.jpeg",
+      "PackagePath": "staticwebassets/images/product/60bf676a-8b60-4e0c-aa6b-eb94caef819e.jpeg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/images/product/bbcc93ab-32d0-4a2c-9785-3a465825eecc.jpeg",
+      "PackagePath": "staticwebassets/images/product/bbcc93ab-32d0-4a2c-9785-3a465825eecc.jpeg"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/krishnendhuarun/BroCamp/BCR04/Week11/Latest/HobbyHarbour/HobbyHarbour/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.HobbyHarbour.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.HobbyHarbour.props",
+      "PackagePath": "build\\HobbyHarbour.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.HobbyHarbour.props",
+      "PackagePath": "buildMultiTargeting\\HobbyHarbour.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.HobbyHarbour.props",
+      "PackagePath": "buildTransitive\\HobbyHarbour.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

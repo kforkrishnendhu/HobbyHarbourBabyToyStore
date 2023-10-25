@@ -1,0 +1,46 @@
+﻿@{
+    Layout = "_CustomerLayout";
+}
+@model List<Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+
+<style>
+    /* CSS for image size and card height */
+    .card-img-top {
+        max-height: 200px; /* Set the maximum height for images */
+        object-fit: contain; /* Maintain aspect ratio, fit within the container */
+    }
+
+    .card {
+        height: 400px; /* Set a fixed height for the cards */
+    }
+</style>
+
+<div class="container">
+    <h2 class="text-center">Products</h2>
+
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card border-0 p-3 shadow border-top border-5 rounded">
+                    <img src="@product.ImgUrl" class="card-img-top" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title h5 text-dark opacity-75 text-center text-uppercase">@product.ProductName</h5>
+                        <p class="card-text text-center text-warning">@product.Description</p>
+                        <p class="card-text text-center">Price: $@product.Price</p>
+                        <p class="card-text text-center">Stock Quantity: @product.StockQuantity</p>
+                        <p class="card-text text-center">Category: @product.Category.CategoryName</p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a asp-action="Details" asp-route-id="@product.ProductID" class="btn btn-primary btn-block bg-gradient border-0">Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = "_AdminLayout";
+}
+@model List<Category>
+
+@{
+    ViewData["Title"] = "Category Management";
+}
+
+<div class="container">
+    <h2>Category List</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Category Name</th>
+                <th>Description</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model)
+            {
+                <tr>
+                    <td>@category.CategoryName</td>
+                    <td>@category.Description</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@category.CategoryID" class="btn btn-primary mx-2"><i class="bi bi-pencil-square"></i>Edit</a>
+                        <a asp-action="Delete" asp-route-id="@category.CategoryID" class="btn btn-danger mx-2"><i class="bi bi-trash-fill"></i>Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="Create" class="btn btn-primary">Create New Category</a>
+</div>

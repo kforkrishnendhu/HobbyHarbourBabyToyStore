@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "_AdminLayout";
+}
+@model List<Product>
+
+@{
+    ViewData["Title"] = "Product Management";
+}
+
+<div class="container">
+    <h2>Product List</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Stock Quantity</th>
+                <th>Category</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.ProductName</td>
+                    <td>@product.Description</td>
+                    <td>@product.Price</td>
+                    <td>@product.StockQuantity</td>
+                    <td>@product.Category.CategoryName</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@product.ProductID" class="btn btn-primary mx-2"><i class="bi bi-pencil-square"></i>Edit</a>
+                        <a asp-action="Delete" asp-route-id="@product.ProductID" class="btn btn-danger mx-2"><i class="bi bi-trash-fill"></i>Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="Create" class="btn btn-primary">Create New Product</a>
+</div>
